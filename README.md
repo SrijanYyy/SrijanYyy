@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" color="white"/> &nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" /> &nbsp;
 </div>
 
