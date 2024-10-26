@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8Ld4isTxuM1RK/giphy.gif" height="180" alt="coding gif" />
-</div>
+  
+<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="250" alt="gif">
 
 ---
 
@@ -21,11 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="Django" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" /> &nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" /> &nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" /> &nbsp;
 </div>
@@ -47,10 +43,5 @@
 
 ---
 
-<h3 align="left">✨ Fun Fact</h3>
-<p align="center">
-  When I'm not coding, I'm either playing chess ♟️ or hiking through the beautiful landscapes of Nepal 🏞️.
-</p>
 
 
-<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="250" alt="gif">
